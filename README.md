@@ -23,3 +23,7 @@
 § Qualifying Round<br>
 § Pre-Final<br>
 § Grand Finale<br>
+
+![alt text](https://github.com/gyanprakash0221/NXP-AIM-INDIA-online-challenge/blob/main/gazebo%20simulator.png "gazebosimulator")
+
+![alt text](https://github.com/gyanprakash0221/NXP-AIM-INDIA-online-challenge/blob/main/gazebo-features.png)

@@ -2,6 +2,12 @@
 
 **The objective of this Online Challenge is to design and develop the CAR model as per guidelines, develop algorithms using AI/ML to handle obstacles on the track provided by NXP AIM INDIA. AIM is a platform for the Engineering Student Community to raise awareness, create interest and build enthusiasm in the field of Artificial Intelligence in Mobility through project-based embedded system design challenges**
 
+### Design & Develop : 
+- Car Model with defined Specifications 
+-  Software Algorithm 
+- Sign recognition Software
+-  System I
+
 ### Online Design Challenge - An Intro
 
 ü Ubuntu Development Environment<br>

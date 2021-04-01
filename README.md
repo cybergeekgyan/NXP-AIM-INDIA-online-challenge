@@ -2,12 +2,12 @@
 
 ### Online Design Challenge - An Intro
 
-ü Ubuntu Development Environment
-ü Gazebo Simulator
-ü ROS (Robotic Operating System)
-ü PX4
-ü rQT Image Viewer
-ü Sample Track
-§ Qualifying Round
-§ Pre-Final
-§ Grand Finale
+ü Ubuntu Development Environment<br>
+ü Gazebo Simulator<br>
+ü ROS (Robotic Operating System)<br>
+ü PX4<br>
+ü rQT Image Viewer<br>
+ü Sample Track<br>
+§ Qualifying Round<br>
+§ Pre-Final<br>
+§ Grand Finale<br>
